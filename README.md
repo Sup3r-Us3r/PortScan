@@ -1,14 +1,14 @@
-# PortScan 
+# PortScan
 
 <img alt="python-logo" width="180" src="https://raw.githubusercontent.com/Sup3r-Us3r/PortScan/master/Screenshots/python-logo.png">
 
-###  See more at:
+### -> See more at:
 
-* [Python](https://www.python.org/) 
-* [Arch Linux](https://www.archlinux.org/) 
+* [Python](https://www.python.org/)
+* [Arch Linux](https://www.archlinux.org/)
 
 
-### Screenshots of project  
+### `Screenshots of project:`
 
 ![Spyquiz.py][screenshot1]
 
@@ -21,7 +21,7 @@
 [screenshot2]:https://raw.githubusercontent.com/Sup3r-Us3r/PortScan/master/Screenshots/2.png
 [screenshot3]:https://raw.githubusercontent.com/Sup3r-Us3r/PortScan/master/Screenshots/3.png
 
-###  About the project.
+### # About the project.
 
 > PortScan.py aims to check open and closed ports quickly, It prompts you to inform a host that can be `LOCAL IP` `EXTERNAL IP` and `WEBSITE` because it converts the host informed and automatically searches its source IP address, it also asks to inform a start port and an end but if you want to check a only door you can too. it was developed in [Python 3.5](https://www.python.org/) and the System used was [Arch Linux](https://www.archlinux.org)
 
