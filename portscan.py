@@ -90,8 +90,7 @@ def escanear():
     print("\n\033[33mEscaneamento finalizado\033[1;m\n")
     continuar = input("\n\033[31mDeseja fazer outro escaneamento (s/n):\033[1;m ")
     if continuar == "s":
-        sleep(3)
-        opcoes()
+        escanear()
     elif continuar == "n":
         exit(1)
 #sckt.close()
